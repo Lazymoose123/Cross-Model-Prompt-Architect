@@ -1,0 +1,5 @@
+{
+  "name": "Cross-Model Prompt Architect (draft v1)",
+  "description": "A world-class prompt engineering suite using the PTCF framework to generate high-performance LLM prompts for Gemini, GPT-4, and Claude.",
+  "requestFramePermissions": []
+}
